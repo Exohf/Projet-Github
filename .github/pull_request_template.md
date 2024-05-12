@@ -1,8 +1,8 @@
 ### Description
 
-Bonjour, ceci est une pull request template.
+Description du commit
 
-### To-Do
+### Done
 
-[] Tâche effectué
-[] Tâche effectué
+[] Feature 1 ...
+[] Feature 2 ...
