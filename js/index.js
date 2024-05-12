@@ -1,15 +1,15 @@
-const sum = (a, b) => {
+export const sum = (a, b) => {
     return a + b;
 };
 
-const sub = (a, b) => {
+export const sub = (a, b) => {
     return a - b;
 };
 
-const division = (a, b) => {
+export const division = (a, b) => {
     return a / b;
 };
 
-const modulo = (a, b) => {
+export const modulo = (a, b) => {
     return a % b;
 };
