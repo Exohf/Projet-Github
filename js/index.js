@@ -7,5 +7,8 @@ const sub = (a, b) => {
 };
 
 const division = (a, b) => {
+    return a / b;
+};
+const modulo = (a, b) => {
     return a % b;
 };
