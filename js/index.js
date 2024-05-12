@@ -5,3 +5,7 @@ const sum = (a, b) => {
 const sub = (a, b) => {
     return a - b;
 };
+
+const division = (a, b) => {
+    return a % b;
+};
